@@ -1,3 +1,3 @@
 # pytorch-implementation
 ## Implemented Papers
-1. Gradient-Based Learning Applied to Document Recognition ([Review](https://jjuon.tistory.com/21),[Code](https://github.com/JJuOn/pytorch-implementation/blob/master/1.LeNet5.ipynb))
+1. Gradient-Based Learning Applied to Document Recognition ([Paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf),[Review](https://jjuon.tistory.com/21),[Code](https://github.com/JJuOn/pytorch-implementation/blob/main/1.LeNet5.ipynb))
