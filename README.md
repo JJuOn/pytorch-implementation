@@ -6,4 +6,4 @@
 4. Rethinking the Inception Architecture for Computer Vision ([Paper](https://arxiv.org/abs/1512.00567), [Code](https://github.com/JJuOn/pytorch-implementation/blob/main/4.Inception_V3.ipynb))
 5. Inception-V4, Inception-ResNet and the Impact of Residual Connections on Learning ([Paper](https://arxiv.org/abs/1602.07261), [Code](https://github.com/JJuOn/pytorch-implementation/blob/main/5.Inception_V4.ipynb))
 6. Deep Residual Learning for Image Recognition ([Paper](https://arxiv.org/abs/1512.03385), [Code](https://github.com/JJuOn/pytorch-implementation/blob/main/6.ResNet18.ipynb))
-7. Densely Connected Convolutional Networks ([Paper](https://arxiv.org/abs/1608.06993), [Code](https://github.com/JJuOn/pytorch-implementation/blob/main/7.ResNet121.ipynb))
+7. Densely Connected Convolutional Networks ([Paper](https://arxiv.org/abs/1608.06993), [Code](https://github.com/JJuOn/pytorch-implementation/blob/main/7.DenseNet121.ipynb))
